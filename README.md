@@ -2,7 +2,7 @@
 </br>
 </br>
 
-- 👋 Hi, I’m Makinde Mayowa 
+- Hi, I’m Makinde Mayowa👋👋👋
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Typescript and Python 
 - 💞️ I’m looking to collaborate on projects
