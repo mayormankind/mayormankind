@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Makinde+Mayowa+%F0%9F%91%8B;I+build+clean+and+responsive+web+experiences;Currently+learning+TypeScript+and+Python;Open+to+collaborating+on+awesome+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Makinde+Mayowa+%F0%9F%91%8B;I+build+clean+and+responsive+web+experiences;Currently+learning+Python;Open+to+collaborating+on+awesome+projects" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -15,7 +15,7 @@
   <a href="https://www.instagram.com/mayormankind23">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://mobile.twitter.com/MakindeMayowaO5">
+  <a href="https://mobile.twitter.com/RedMoonCoder">
     <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -26,7 +26,7 @@
 
 - 👋 Hi, I’m **Makinde Mayowa**
 - 👀 I’m interested in building modern and user-friendly web applications
-- 🌱 I’m currently learning **TypeScript** and **Python**
+- 🌱 I’m currently learning **Python**
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 You can reach me through my social links above
 
