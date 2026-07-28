@@ -24,11 +24,11 @@
 
 ## 👨‍💻 About Me
 
-- 👋 Hi, I’m **Makinde Mayowa**
-- 👀 I’m interested in building modern and user-friendly web applications
-- 🌱 I’m currently learning **Python**
-- 💞️ I’m looking to collaborate on exciting projects
-- 📫 You can reach me through my social links above
+-  Hi, I’m **Mayowa Makinde**
+-  I’m interested in building modern and user-friendly web applications
+-  I’m currently learning **Python**
+-  I’m looking to collaborate on exciting projects
+-  You can reach me through my social links above
 
 ---
 
