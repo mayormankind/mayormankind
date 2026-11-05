@@ -1,70 +1,86 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:2563eb&text=Makinde%20Mayowa&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=Software%20Engineer%20%7C%20TypeScript%20%7C%20Data%20Engineer%20In%20The%20Making&descAlignY=60&descAlign=50" alt="header"/>
-</div>
+ <div align="center">
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Mayowa+Makinde+%F0%9F%91%8B;I+build+clean+and+responsive+web+experiences;Currently+learning+Data+Engineering;Open+to+collaborating+on+awesome+projects" alt="Typing SVG" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,100:2563eb&text=Mayowa%20Makinde&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=Software%20Engineer%20%7C%20Product%20Builder&descAlignY=62&descAlign=50" width="100%" alt="Mayowa Makinde"/>
 
-<br/>
+### Building things, understanding how they work, and making them better.
 
-<div align="center">
-  <a href="https://www.linkedin.com/mwlite/in/mayowa-makinde-4670a51bb">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/mayormankind23">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://mobile.twitter.com/RedMoonCoder">
-    <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+[Portfolio](https://mayowamakinde.dev) · [LinkedIn](https://www.linkedin.com/in/mayowa-makinde-4670a51bb) · [X](https://x.com/RedMoonCoder)
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## A little about me
 
--  Hi, I’m **Mayowa Makinde**
--  I’m interested in building modern and user-friendly web applications
--  I’m currently learning **Python**
--  I’m looking to collaborate on exciting projects
--  You can reach me through my social links above
+I'm **Mayowa Makinde**, a software engineer who enjoys turning ideas into practical, usable products.
 
----
+I care about more than getting an interface to work. I enjoy figuring out why a product needs to exist, how its different parts should communicate, and what could go wrong along the way.
 
-## 🛠️ Languages and Tools
+Most of my work revolves around building web applications, exploring product ideas, and solving problems through software.
+
+A few things I'm particularly interested in:
+
+- Building full-stack applications and digital products.
+- Designing reliable backend systems and API integrations.
+- Exploring AI-powered applications and intelligent systems.
+- Understanding engineering trade-offs, edge cases, and system behaviour.
+
+I'm also currently exploring **Data Engineering**, particularly SQL, analytical functions, and data transformations.
+
+## Things I've been building
+
+Here are a few projects that reflect the kind of problems I enjoy working on.
+
+### TheoGrader
+An intelligent assessment system designed to help automate the grading of theoretical examination scripts.
+
+Explores OCR, semantic similarity, rubric-aware grading, and confidence-based assessment workflows.
+
+**Stack:** Next.js, TypeScript, Python, FastAPI, Sentence-BERT.
+
+[Explore the live project](https://theograder.vercel.app)
+
+### Rehevo
+A communication rehearsal platform designed to help people prepare for difficult, important, and high-stakes conversations before they actually happen.
+
+### Banneroyor
+A meeting intelligence product exploring ways to make conversations, meeting information, and follow-up workflows more useful.
+
+More projects and experiments can be found throughout my repositories.
+
+## Technologies I work with
+
+**Frontend**
+
+React · Next.js · TypeScript · JavaScript · Tailwind CSS
+
+**Backend**
+
+Node.js · Python · FastAPI · REST APIs
+
+**Data & Storage**
+
+Firebase · SQL · MySQL
+
+**Tools & Workflow**
+
+Git · GitHub · VS Code · Figma
+
+## Currently exploring
+
+- Data Engineering and analytical SQL.
+- Better software architecture and system design.
+- AI integration and practical intelligent applications.
+- Writing more maintainable, reliable software.
+
+## Let's connect
+
+I'm always interested in meaningful conversations, interesting engineering problems, and opportunities to collaborate on products that solve real problems.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,py,js,php,html,css,firebase,mysql,redux,materialui" alt="Tech Stack" />
-</div>
 
-<br/>
+[Portfolio](https://mayowamakinde.dev) · [LinkedIn](https://www.linkedin.com/in/mayowa-makinde-4670a51bb) · [X](https://x.com/RedMoonCoder)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI Badge"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0f172a,100:2563eb" width="100%" alt="Footer"/>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mayormankind&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayormankind&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mayormankind&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayormankind&style=for-the-badge&color=2563eb" alt="Profile Views"/>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,100:2563eb" alt="footer"/>
 </div>
