@@ -27,24 +27,17 @@ A few things I'm particularly interested in:
 
 I'm also currently exploring **Data Engineering**, particularly SQL, analytical functions, and data transformations.
 
-## Things I've been building
+## Selected Projects
 
-Here are a few projects that reflect the kind of problems I enjoy working on.
-
-### TheoGrader
-An intelligent assessment system designed to help automate the grading of theoretical examination scripts.
-
-Explores OCR, semantic similarity, rubric-aware grading, and confidence-based assessment workflows.
-
-**Stack:** Next.js, TypeScript, Python, FastAPI, Sentence-BERT.
-
-[Explore the live project](https://theograder.vercel.app)
-
-### Rehevo
-A communication rehearsal platform designed to help people prepare for difficult, important, and high-stakes conversations before they actually happen.
-
-### Banneroyor
-A meeting intelligence product exploring ways to make conversations, meeting information, and follow-up workflows more useful.
+| Project | Description | Technologies |
+|---|---|---|
+| [TheoGrader](https://theograder.vercel.app/) | An intelligent assessment system for grading handwritten theoretical examination scripts using OCR, rubric-aware semantic grading, and lecturer review. | Next.js, TypeScript, Python, FastAPI, OpenAI, Supabase |
+| [RIOS](https://www.riosintell.com/) | Risk intelligence platform for energy and extractive companies, combining ESG data, media sentiment monitoring and operational risk detection. | Next.js, TypeScript, Node.js, Express, PostgreSQL, Prisma, Supabase, OpenAI |
+| [Ren Power Group](https://www.renpowerltd.com/) | Solar energy marketplace connecting manufacturers, distributors, recyclers and customers in Nigeria's renewable energy sector. | Next.js, TypeScript, Node.js, PostgreSQL, Supabase, Prisma |
+| [Rehevo](https://rehevo.vercel.app/) | A communication rehearsal platform that helps people prepare for difficult, important, and high-stakes conversations. | Next.js, TypeScript, Tailwind CSS |
+| [Banner Recall](https://theograder.vercel.app/) | A meeting intelligence product that transforms recorded conversations into searchable transcripts, summaries, decisions, and follow-up actions. | Next.js, Python, Supabase, OpenAI, Tailwind CSS |
+| [Fashionista](https://fashionista-jet.vercel.app/) | A fashion-focused digital experience showcasing e-commerce and user-facing product interactions. | Reactjs, TypeScript, Tailwind CSS |
+| [Graft Realty](https://graftrealty.vercel.app/) | A real-estate website concept designed to present property listings and help prospective clients explore a property business online. | Next.js, TypeScript, Node.js, PostgreSQL, Supabase, Prisma, Tailwind CSS |
 
 More projects and experiments can be found throughout my repositories.
 
